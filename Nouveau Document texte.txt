@@ -1,3 +1,21 @@
 je suis le laitier, mon lait est
 délicieux
 je suis le laitier , le laitier , le laitier 
+
+
+git add .
+
+
+git commit -m
+
+git (?)
+
+git push
+
+
+pour modifier la version d'une autre personne il faut :
+
+git pull : 
+
+-cette commande fait donc premièrement de prendre le dossier de l'autre personne et ensuite elle le fusionne avec ton prohjet a toi.
+
